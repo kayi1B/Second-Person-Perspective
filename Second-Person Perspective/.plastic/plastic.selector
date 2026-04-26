@@ -1,0 +1,4 @@
+repository "Second-Person Perspective@tj_a807d881_cfa3_4ae4_b034_8bd3c03f5059@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
