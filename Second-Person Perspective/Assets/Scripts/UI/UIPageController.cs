@@ -50,6 +50,7 @@ public class UIPageController : MonoBehaviour
     // 只显示目标页面，其余全部隐藏
     public void ShowOnly(GameObject targetPage)
     {
+        print("clicked" + targetPage.name);
         if (targetPage == null)
         {
             Debug.LogWarning("[UIPageController] ShowOnly 失败：targetPage 是空的。", this);
