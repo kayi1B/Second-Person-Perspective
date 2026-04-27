@@ -104,3 +104,47 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Second-Person Perspective/.vscode/extensions.json
+Second-Person Perspective/.vscode/launch.json
+Second-Person Perspective/.vscode/settings.json
+Second-Person Perspective/Assets/Art.meta
+Second-Person Perspective/Assets/Art/BG.meta
+Second-Person Perspective/Assets/Art/BG/Desktop.jpg.meta
+Second-Person Perspective/Assets/Art/BG/logo.meta
+Second-Person Perspective/Assets/Art/BG/logo/Browser.png.meta
+Second-Person Perspective/Assets/Art/BG/logo/聊天软件.png.meta
+Second-Person Perspective/Assets/Art/BG/logo/记事本.png.meta
+Second-Person Perspective/Assets/Art/BG/浏览器.meta
+Second-Person Perspective/Assets/Art/BG/浏览器/空白页.meta
+Second-Person Perspective/Assets/Art/BG/浏览器/网站.meta
+Second-Person Perspective/Assets/Resources.meta
+Second-Person Perspective/Assets/Resources/BillingMode.json.meta
+Second-Person Perspective/Assets/Scenes.meta
+Second-Person Perspective/Assets/Scenes/Day1.unity
+Second-Person Perspective/Assets/Scenes/Day1.unity.meta
+Second-Person Perspective/Assets/Scripts.meta
+Second-Person Perspective/Assets/Scripts/UI.meta
+Second-Person Perspective/Assets/Scripts/UI/UIPageController.cs
+Second-Person Perspective/Assets/Scripts/UI/UIPageController.cs.meta
+Second-Person Perspective/Packages/manifest.json
+Second-Person Perspective/Packages/packages-lock.json
+Second-Person Perspective/ProjectSettings/AudioManager.asset
+Second-Person Perspective/ProjectSettings/ClusterInputManager.asset
+Second-Person Perspective/ProjectSettings/DynamicsManager.asset
+Second-Person Perspective/ProjectSettings/EditorBuildSettings.asset
+Second-Person Perspective/ProjectSettings/EditorSettings.asset
+Second-Person Perspective/ProjectSettings/GraphicsSettings.asset
+Second-Person Perspective/ProjectSettings/InputManager.asset
+Second-Person Perspective/ProjectSettings/MemorySettings.asset
+Second-Person Perspective/ProjectSettings/NavMeshAreas.asset
+Second-Person Perspective/ProjectSettings/PackageManagerSettings.asset
+Second-Person Perspective/ProjectSettings/Physics2DSettings.asset
+Second-Person Perspective/ProjectSettings/PresetManager.asset
+Second-Person Perspective/ProjectSettings/ProjectSettings.asset
+Second-Person Perspective/ProjectSettings/ProjectVersion.txt
+Second-Person Perspective/ProjectSettings/QualitySettings.asset
+Second-Person Perspective/ProjectSettings/TagManager.asset
+Second-Person Perspective/ProjectSettings/TimeManager.asset
+Second-Person Perspective/ProjectSettings/UnityConnectSettings.asset
+Second-Person Perspective/ProjectSettings/VersionControlSettings.asset
+Second-Person Perspective/ProjectSettings/VFXManager.asset
